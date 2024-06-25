@@ -28,12 +28,12 @@ In this simple prompt, you start with the basic **Goal**: _to build out a meetin
 | Basic prompt: <br>Start with a **Goal** | **_Build a meeting agenda._** |
 | Good prompt: <br>Add **Context** | Adding **Context** can help Copilot why you are calling the meeting and what you want to discuss.<br><br>"_...for a client meeting to last an hour, including the project goals, mission statement, and scheduled completion date._" |
 | Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot know where to look for specific information.<br><br>"_Use information from **/Contoso CipherGuard Product Specification.docx** and look for open items and unanswered questions._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted.<br><br>"_The agenda should be in a table format with time alloments, and make sure to give people the change to ask question at the end._" |
+| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted.<br><br>"_The agenda should be in a table format with time allotments, and make sure to give people the chance to ask questions at the end._" |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
-> _Build a meeting agenda for a client meeting to last an hour, including the project goals, mission statement, and scheduled completion date. Use information from **/Contoso CipherGuard Product Specification.docx** and look for open items and unanswered questions. The agenda should be in a table format with time allotments, and make sure to give people the change to ask question at the end._
+> _Build a meeting agenda for a client meeting to last an hour, including the project goals, mission statement, and scheduled completion date. Use information from **/Contoso CipherGuard Product Specification.docx** and look for open items and unanswered questions. The agenda should be in a table format with time allotments, and make sure to give people the chance to ask questions at the end._
 
 [![Screenshot the crafted prompt results against the sample document using Copilot in Teams with Graph-assisted chat.](../media/copilot-chat-draft-agenda-teams.png)](../media/copilot-chat-draft-agenda-teams.png#lightbox)
 
