@@ -11,6 +11,8 @@ Once completed, the summary appears at the top of the email and will also includ
 
 ## Let's get crafting
 
+Instead of using the basic summarize feature, open the Copilot pane in Outlook from the toolbar and follow the prompts. However, the specific circumstances of your email will vary, you will need to adapt the prompt to your situation.
+
 > [!NOTE]
 > Starting prompt:
 >
