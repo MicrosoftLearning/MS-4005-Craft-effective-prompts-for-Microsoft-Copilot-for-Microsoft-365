@@ -16,6 +16,8 @@ Throughout the rest of the module, we'll craft prompts for Copilot for Microsoft
 
 - [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 
+- [Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)
+
 ## Referencing files
 
 When referencing files from Copilot, you might find that you can't find some files from the suggestions provided to you. This happens sometimes because certain experiences with Copilot only reference files from the Most Recently Used (MRU) list, while others let you browse OneDrive to find your file. Adding them to that list is as easy as opening them up in the appropriate Microsoft 365 app.  Once they've been opened, they should appear in the MRU list.

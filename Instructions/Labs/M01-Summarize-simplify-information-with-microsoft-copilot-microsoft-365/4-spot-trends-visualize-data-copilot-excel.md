@@ -35,12 +35,12 @@ In this simple prompt, you start with the basic **Goal**: _to analyze an Excel t
 | Basic prompt: <br>Start with a **Goal** | **Analyze this table in Excel.** |
 | Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand the purpose of the analysis and adjust the response accordingly.<br><br>"_We're looking for the top selling products from May through August to inform our marketing strategy for next year._" |
 | Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot narrow down the scope by telling it to use specific information or ranges.<br><br>"_...from May through August..._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required.<br><br>"_Please highlight the top selling product for each store and month._" |
+| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required.<br><br>"_Please highlight the top selling product month over month._" |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
-> _Analyze this Excel table. We're looking for the top selling products from May through August to inform our marketing strategy for next year. Please highlight the top selling product for each store and month._
+> _Analyze this Excel table. We're looking for the top selling products from May through August to inform our marketing strategy for next year. Please highlight the top selling product month over month._
 
 [![Screenshot of the results of the crafted prompt using Copilot in Excel.](../media/copilot-results-excel.png)](../media/copilot-results-excel.png#lightbox)
 

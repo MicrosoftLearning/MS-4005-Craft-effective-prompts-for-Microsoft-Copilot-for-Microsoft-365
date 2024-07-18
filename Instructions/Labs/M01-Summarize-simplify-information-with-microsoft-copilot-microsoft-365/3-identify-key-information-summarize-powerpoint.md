@@ -11,6 +11,8 @@ From the Copilot pane, you can ask to have the presentation summarized or ask qu
 
 ## Let's get crafting
 
+First, download **_[Mystic Spice Premium Chai Market Analysis Presentation.pptx](https://go.microsoft.com/fwlink/?linkid=2268768)_** and save the file to your **OneDrive folder** if you haven't yet done so.
+
 > [!NOTE]
 > Starting prompt:
 >
