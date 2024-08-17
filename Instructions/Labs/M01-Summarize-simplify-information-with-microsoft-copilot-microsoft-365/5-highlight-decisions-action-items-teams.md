@@ -37,14 +37,14 @@ In this simple prompt, you start with the basic **Goal**: _to recap a Teams meet
 | Element | Example |
 | :------ | :------- |
 | Basic prompt: <br>Start with a **Goal** | **Recap this Teams meeting.** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand the purpose and adjust the response accordingly.<br><br>"_My manager was unable to attend and needs a brief overview of the project timeline._" |
-| Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot understand which part needs to be summarized and provide a more accurate response.<br><br>"_Did Adele Vance propose any changes to the timeline?_" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required.<br><br>"_Include the project timeline in a table, any proposed changes from Adele, and the action items assigned to each team member for each milestone._" |
+| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand the purpose and adjust the response accordingly.<br><br>"_I was late to attend and need a brief overview of the project timeline._" |
+| Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot understand which part needs to be summarized and provide a more accurate response.<br><br>"_Did Adele Vance propose any changes?_" |
+| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required.<br><br>"_Include the project timeline in a table and any proposed changes from Adele._" |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
-> _Recap this Teams meeting. My manager was unable to attend and needs a brief overview of the project timeline. Did Adele Vance propose any changes to the timeline? Include the project timeline in a table, any proposed changes from Adele, and the action items assigned to each team member for each milestone._
+> _Recap this Teams meeting. I was late to attend and need a brief overview of the project timeline. Did Adele Vance propose any changes? Include the project timeline in a table and any proposed changes from Adele._
 
 In this prompt, the **Goal**, **Context**, **Source**, and **Expectations** are all provided, giving Copilot enough direction to generate a response that meets your needs.
 
