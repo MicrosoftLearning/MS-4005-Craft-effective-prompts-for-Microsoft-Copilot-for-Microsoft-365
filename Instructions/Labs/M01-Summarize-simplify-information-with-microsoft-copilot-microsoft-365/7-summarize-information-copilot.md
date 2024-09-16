@@ -3,16 +3,6 @@ Microsoft 365 Business Chat with Graph-grounded chat combines the power of artif
 
 To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Copilot with Graph-grounded chat, we can pull that all together into a new experience.
 
-You can access Microsoft 365 Chat in several ways:
-
-- Use Copilot in desktop and mobile versions of Microsoft Teams. See [Use Copilot with Graph-grounded chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181).
-
-- Launch the experience at Microsoft Bing (Bing.com/chat). See [Use Copilot with Graph-grounded chat at Bing.com](https://support.microsoft.com/topic/use-microsoft-365-chat-at-bing-com-61033adf-484d-45f5-a8c3-b89876963bd8).
-
-- Access Copilot with Graph-grounded chat at Microsoft365.com. See [Use Copilot with Graph-grounded chat at Microsoft365.com](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f).
-
-![Screenshot of the Microsoft Copilot with Graph-grounded chat experience in Microsoft Teams.](../media/copilot-chat-experience-teams.png)
-
 ## Let's get crafting
 
 First, download and save the following files to your **OneDrive** folder and add them to your MRU list:
@@ -23,7 +13,7 @@ First, download and save the following files to your **OneDrive** folder and add
 
 - [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 
-Open the Microsoft Copilot chat experience in Microsoft Teams and follow along with the prompts that reference the files above.
+Open the Business chat experience in Microsoft Teams and follow along with the prompts that reference the files above.
 
 > [!NOTE]
 > Starting prompt:
@@ -50,7 +40,7 @@ With the **Goal**, **Context**, **Source**, and **Expectations** all laid out, C
 
 ## Explore more
 
-You can also use Copilot to get summaries and catch up on things quickly. It can pull together quick summaries of projects, meetings, email messages, chats, and more. Use it to find out what's due, get the latest updates on a project, or find recent communications from a colleague or manager quickly.
+You can also use Business Chat to get summaries and catch up on things quickly. It can pull together quick summaries of projects, meetings, email messages, chats, and more. Use it to find out what's due, get the latest updates on a project, or find recent communications from a colleague or manager quickly.
 
 Here are some more examples:
 
