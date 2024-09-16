@@ -1,4 +1,4 @@
-Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant. 
+Microsoft 365 Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant. 
 
 Chatting with Copilot can help you:
 

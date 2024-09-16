@@ -1,5 +1,5 @@
 
-Microsoft Copilot in Word allows you to stay in the flow of ideas while drafting new content and transform your content once you have your ideas written. Copilot can rewrite your text, including adjustments for tone. Copilot can also transform your text into an editable table. Follow the steps to transform your content in Word:
+Microsoft 365 Copilot in Word allows you to stay in the flow of ideas while drafting new content and transform your content once you have your ideas written. Copilot can rewrite your text, including adjustments for tone. Copilot can also transform your text into an editable table. Follow the steps to transform your content in Word:
 
 ## Rewrite for tone
 

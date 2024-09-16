@@ -13,7 +13,7 @@ In this module, you have learned about Microsoft Copilot and its transformative 
 
 The key takeaways from this module are:
 
-- Microsoft Copilot is an AI-powered tool that helps with editing, transforming, and rewriting information using Microsoft Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Excel**, **Outlook**.
+- Microsoft Copilot is an AI-powered tool that helps with editing, transforming, and rewriting information using Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Excel**, **Outlook**.
 
 - To effectively use Copilot, provide clear prompts with a **Goal**, **Context**, **Source(s)**, and **Expectations** to get the desired results.
 

@@ -1,5 +1,5 @@
 
-Suppose you want to add a slide to a deck on the history of soccer.  Ask Copilot in PowerPoint to “**_Add a slide about the history of Women’s Olympic Soccer_**” and it creates that slide for you.
+Suppose you want to add a slide to a deck on the history of soccer.  Ask Microsoft 365 Copilot in PowerPoint to “**_Add a slide about the history of Women’s Olympic Soccer_**” and it creates that slide for you.
 
 ![Screenshot of Copilot in PowerPoint compose box with a prompt entered.](../media/copilot-add-slides-powerpoint.png)
 

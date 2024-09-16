@@ -1,6 +1,6 @@
-In this module, you learn how to craft effective, contextual prompts for Microsoft Copilot to **ask** for information within Microsoft documents and files. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft Copilot for Microsoft 365.
+In this module, you learn how to craft effective, contextual prompts for Microsoft Copilot to **ask** for information within Microsoft documents and files. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft 365 Copilot.
 
-The focus of this module is **asking**, **analyzing**, and **querying** information using Microsoft Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Teams**, **Outlook**, and others. You learn how to use these basic creation capabilities, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
+The focus of this module is **asking**, **analyzing**, and **querying** information using Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Teams**, **Outlook**, and others. You learn how to use these basic creation capabilities, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
 
 By the end of this module, you'll be able to:
 

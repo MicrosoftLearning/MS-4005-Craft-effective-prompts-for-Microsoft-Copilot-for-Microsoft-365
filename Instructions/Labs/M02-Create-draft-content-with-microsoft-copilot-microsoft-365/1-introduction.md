@@ -1,6 +1,6 @@
-In this module, you learn how to craft effective, contextual prompts for Microsoft Copilot to **create** information in Microsoft 365 apps. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft Copilot for Microsoft 365.
+In this module, you learn how to craft effective, contextual prompts for Microsoft Copilot to **create** information in Microsoft 365 apps. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft 365 Copilot.
 
-The focus of this module is **drafting**, **creating**, and **building** information using Microsoft Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Teams**, **Outlook**, and others. You learn how to use these basic creation capabilities, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
+The focus of this module is **drafting**, **creating**, and **building** information using Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Teams**, **Outlook**, and others. You learn how to use these basic creation capabilities, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
 
 > [!IMPORTANT]
 > Many of the Copilot features covered in this module are only available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. However, the strategies employed to craft better prompts can be used with any chat-based large language model (LLM).
@@ -13,7 +13,7 @@ By the end of this module, you'll be able to:
 
 1. Ask Copilot in Outlook to draft new emails, compose replies, and plan meetings.
 
-1. Prompt Microsoft Copilot for Microsoft 365 to generate new ideas, new content, and FAQs from existing files.
+1. Prompt Microsoft 365 Copilot to generate new ideas, new content, and FAQs from existing files.
 
 Throughout the module, you'll see examples of **simple** prompts that are improved with different techniques to be **good** prompts, then **better** prompts, and then the **best** version of those prompts. Dissecting prompts in this way helps you learn about the capabilities of Microsoft Copilot and reinforces the importance of good technique at the same time.
 

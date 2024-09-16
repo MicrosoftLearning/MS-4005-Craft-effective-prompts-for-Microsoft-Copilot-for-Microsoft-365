@@ -1,5 +1,5 @@
 
-Microsoft Copilot in Excel helps you do more with your data in Excel tables by generating formula column suggestions, showing insights in charts and PivotTables, and highlighting interesting portions of data. 
+Microsoft 365 Copilot in Excel helps you do more with your data in Excel tables by generating formula column suggestions, showing insights in charts and PivotTables, and highlighting interesting portions of data. 
 
 In Excel, select **Copilot** on the ribbon to open the chat pane. You need to have an **Excel table** that includes data in a worksheet before using Copilot. 
 

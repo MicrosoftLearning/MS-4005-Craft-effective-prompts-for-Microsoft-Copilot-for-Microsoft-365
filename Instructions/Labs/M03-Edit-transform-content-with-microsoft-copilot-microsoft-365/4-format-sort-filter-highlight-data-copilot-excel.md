@@ -1,5 +1,5 @@
 
-With Microsoft Copilot in Excel, it's easy to highlight, sort, and filter your tables to quickly call attention to what matters to you. Using a single table in Excel, you can have Copilot effortlessly: 
+With Microsoft 365 Copilot in Excel, it's easy to highlight, sort, and filter your tables to quickly call attention to what matters to you. Using a single table in Excel, you can have Copilot effortlessly: 
 
 - Sort and filter your data.
 

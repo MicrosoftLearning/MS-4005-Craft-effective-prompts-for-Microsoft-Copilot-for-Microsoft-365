@@ -1,5 +1,5 @@
 
-Have an important email to write and want to feel confident that it effectively conveys your intended message? With Copilot in Outlook, you can get helpful suggestions on how to adjust the tone, clarity, and reader sentiment before you hit send. 
+Have an important email to write and want to feel confident that it effectively conveys your intended message? With Microsoft 365 Copilot in Outlook, you can get helpful suggestions on how to adjust the tone, clarity, and reader sentiment before you hit send. 
 
 1. In Outlook, select **Home > New Mail > Mail**. Type your email message. 
 

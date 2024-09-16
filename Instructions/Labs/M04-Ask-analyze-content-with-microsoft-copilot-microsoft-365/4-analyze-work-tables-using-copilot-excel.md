@@ -1,5 +1,5 @@
 
-If you're not sure how to write a formula for a new column, Copilot for Microsoft 365 can quickly add new columns with formulas based on your data. 
+If you're not sure how to write a formula for a new column, Microsoft 365 Copilot for Microsoft 365 can quickly add new columns with formulas based on your data. 
 
 1. With your data formatted as a table, select the **Copilot** button in the ribbon.
 

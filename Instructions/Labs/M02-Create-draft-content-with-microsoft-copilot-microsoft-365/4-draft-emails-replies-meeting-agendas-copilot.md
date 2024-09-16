@@ -1,4 +1,4 @@
-Copilot in Outlook makes inbox management easier with AI-powered assistance to help you write emails quickly and turn long email threads into short summaries. It combines the power of large language models (LLMs) with Outlook data to help you stay productive in the workplace. It can summarize email threads (also known as conversations), pulling out key points from multiple messages.
+Microsoft 365 Copilot in Outlook makes inbox management easier with AI-powered assistance to help you write emails quickly and turn long email threads into short summaries. It combines the power of large language models (LLMs) with Outlook data to help you stay productive in the workplace. It can summarize email threads (also known as conversations), pulling out key points from multiple messages.
 
 > [!NOTE]
 > Drafting in Outlook for Microsoft 365 is currently available in new Outlook for Windows, Outlook on the web, and Outlook.com. If you have classic Outlook, [get new Outlook](https://support.microsoft.com/office/start-using-new-outlook-for-windows-4395454d-cb2f-4c16-bb24-fa4bb36650ae). If you're unable to access, check with your IT admin.

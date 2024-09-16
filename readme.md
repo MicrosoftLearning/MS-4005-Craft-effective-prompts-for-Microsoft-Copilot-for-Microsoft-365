@@ -1,4 +1,4 @@
-# MS-4005: Craft effective prompts for Microsoft Copilot for Microsoft 365
+# MS-4005: Craft effective prompts for Microsoft 365 Copilot
 
 **Are you an MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 

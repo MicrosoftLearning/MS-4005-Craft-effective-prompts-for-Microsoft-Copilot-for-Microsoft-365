@@ -1,5 +1,5 @@
 
-Copilot in Teams meetings and calls helps you capture action items, different perspectives by topic, or unresolved questions. You can even ask Copilot to give you a response as a table, generating a markdown table that's ready for you to copy and share. 
+Microsoft 365 Copilot in Teams meetings and calls helps you capture action items, different perspectives by topic, or unresolved questions. You can even ask Copilot to give you a response as a table, generating a markdown table that's ready for you to copy and share. 
 
 Copilot in Teams uses your Teams chat and meeting content to generate insights and actionable suggestions alongside your most important Teams touch points. Copilot in Teams is contextual to whatever it is that you're doing. For example, you can access the Copilot pane in a chat, meeting, or call, as long as a few conditions are met:
 

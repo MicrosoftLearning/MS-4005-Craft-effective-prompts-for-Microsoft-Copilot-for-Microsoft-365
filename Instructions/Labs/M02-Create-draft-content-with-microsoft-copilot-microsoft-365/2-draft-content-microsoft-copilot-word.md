@@ -1,5 +1,5 @@
 
-To start using Microsoft Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab or start writing right within the document.
+To start using Microsoft 365 Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab or start writing right within the document.
 
 ![Screenshot of the Copilot icon in the Word ribbon.](../media/copilot-ribbon-word.png)
 

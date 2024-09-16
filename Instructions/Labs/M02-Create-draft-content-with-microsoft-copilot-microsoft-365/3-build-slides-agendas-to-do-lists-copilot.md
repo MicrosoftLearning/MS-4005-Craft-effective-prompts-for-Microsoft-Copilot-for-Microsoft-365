@@ -1,4 +1,4 @@
-Microsoft Copilot in PowerPoint is an AI-powered feature that can help you create, design, and format your slides.  You can type in what you intend to convey with your presentation, and Copilot helps you get it done. 
+Microsoft 365 Copilot in PowerPoint is an AI-powered feature that can help you create, design, and format your slides.  You can type in what you intend to convey with your presentation, and Copilot helps you get it done. 
 
 Copilot can help you move past that initial blank slide and get you moving in the right direction. To start using Microsoft Copilot in PowerPoint, you can open the **Copilot** pane via the Copilot icon in the ribbon's **Home** tab.
 

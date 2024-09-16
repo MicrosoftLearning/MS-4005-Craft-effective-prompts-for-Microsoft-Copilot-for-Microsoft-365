@@ -1,4 +1,4 @@
-To start chatting with Microsoft Copilot in PowerPoint, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
+To start chatting with Microsoft 365 Copilot in PowerPoint, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
 
 ![Screenshot of the Copilot icon in the PowerPoint ribbon.](../media/copilot-ribbon-powerpoint.png)
 
