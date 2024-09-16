@@ -2,7 +2,7 @@ In this module, you have learnt how to use Copilot in various Microsoft applicat
 
 The main takeaways from this module are:
 
-1. Microsoft Copilot is an AI-powered tool that assists in generating content, creating presentations, drafting emails, and achieving broader goals and objectives.
+1. Microsoft 365  is an AI-powered tool that assists in generating content, creating presentations, drafting emails, and achieving broader goals and objectives.
 
 1. To effectively use Copilot, provide clear prompts with a **Goal**, **Context**, **Source(s)**, and **Expectations** to get the desired results.
 

@@ -1,9 +1,9 @@
 
-In this module, you have learned how to create effective prompts for Microsoft Copilot to request information within Microsoft documents and files. You've also learned about Microsoft Copilot and its various functionalities in different Microsoft applications. It generates insights and suggestions based on your files, documents, chats, and meetings. This module has equipped you with the knowledge and techniques to craft prompts that produce accurate and helpful results from Microsoft 365 Copilot.
+In this module, you have learned how to create effective prompts for Microsoft 365  to request information within Microsoft documents and files. You've also learned about Microsoft 365  and its various functionalities in different Microsoft applications. It generates insights and suggestions based on your files, documents, chats, and meetings. This module has equipped you with the knowledge and techniques to craft prompts that produce accurate and helpful results from Microsoft 365 Copilot.
 
 The main takeaways from this module are:
 
-- Microsoft Copilot is a powerful tool that can assist you in various Microsoft applications such as Word, PowerPoint, Excel, OneNote, and Teams.
+- Microsoft 365  is a powerful tool that can assist you in various Microsoft applications such as Word, PowerPoint, Excel, OneNote, and Teams.
 
 - Copilot generates the best response when you provide clear goals, context, sources, and expectations in your prompts.
 
