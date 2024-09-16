@@ -1,7 +1,7 @@
 
-Microsoft 365 Business Chat with Graph-grounded chat combines the power of artificial intelligence (AI) with your work data and apps to help you unleash creativity, unlock productivity, and uplevel skills. It works across multiple apps and content, giving you the power of AI together with your secure work data. Its ability to synthesize information and create things from multiple sources at once empowers you to tackle broader goals and objectives.
+Microsoft 365 Business Chat combines the power of artificial intelligence (AI) with your work data and apps to help you unleash creativity, unlock productivity, and uplevel skills. It works across multiple apps and content, giving you the power of AI together with your secure work data. Its ability to synthesize information and create things from multiple sources at once empowers you to tackle broader goals and objectives.
 
-To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Copilot with Graph-grounded chat, we can pull that all together into a new experience.
+To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Copilot , we can pull that all together into a new experience.
 
 ## Let's get crafting
 
