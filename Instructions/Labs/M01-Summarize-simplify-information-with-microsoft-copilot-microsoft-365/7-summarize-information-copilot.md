@@ -1,7 +1,16 @@
 
 Microsoft 365 Business Chat combines the power of artificial intelligence (AI) with your work data and apps to help you unleash creativity, unlock productivity, and uplevel skills. It works across multiple apps and content, giving you the power of AI together with your secure work data. Its ability to synthesize information and create things from multiple sources at once empowers you to tackle broader goals and objectives.
 
-To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Copilot , we can pull that all together into a new experience.
+To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Microsoft 365 Business Chat, we can pull that all together into a new experience.
+
+You can access Microsoft 365 Chat in several ways:
+
+- Use Microsoft 365 Business Chat in desktop and mobile versions of Microsoft Teams. See [Use Microsoft 365 Business Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)
+
+- Access Microsoft 365 Business Chat at Microsoft.com/copilot. See [Use Microsoft 365 Business Chat at Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+
+![Screenshot of copilot chat experience in Teams](../media/copilot-chat-experience-teams.png)
+
 
 ## Let's get crafting
 
@@ -13,7 +22,7 @@ First, download and save the following files to your **OneDrive** folder and add
 
 - [Market Trend Report- Protein shake.docx](https://go.microsoft.com/fwlink/?linkid=2268827)
 
-Open the Business chat experience in Microsoft Teams and follow along with the prompts that reference the files above.
+Open Business chat experience in Microsoft Teams and follow along with the prompts that reference the files above.
 
 > [!NOTE]
 > Starting prompt:
@@ -40,7 +49,7 @@ With the **Goal**, **Context**, **Source**, and **Expectations** all laid out, C
 
 ## Explore more
 
-You can also use Business Chat to get summaries and catch up on things quickly. It can pull together quick summaries of projects, meetings, email messages, chats, and more. Use it to find out what's due, get the latest updates on a project, or find recent communications from a colleague or manager quickly.
+You can also use Copilot to get summaries and catch up on things quickly. It can pull together quick summaries of projects, meetings, email messages, chats, and more. Use it to find out what's due, get the latest updates on a project, or find recent communications from a colleague or manager quickly.
 
 Here are some more examples:
 

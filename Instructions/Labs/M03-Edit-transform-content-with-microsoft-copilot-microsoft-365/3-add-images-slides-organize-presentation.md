@@ -1,9 +1,9 @@
 
-Suppose you want to add a slide to a deck on the history of soccer.  Ask Microsoft 365 Copilot in PowerPoint to “**_Add a slide about the history of Women’s Olympic Soccer_**” and it creates that slide for you.
+Suppose you want to add a slide to a deck on the history of soccer. Ask Copilot in PowerPoint to “**_Add a slide about the history of Women’s Olympic Soccer_**” and it creates that slide for you.
 
 ![Screenshot of Copilot in PowerPoint compose box with a prompt entered.](../media/copilot-add-slides-powerpoint.png)
 
-Copilot can also step in to make what you have even better. Maybe you're teaching a cooking class and need some slides about making pizza, but it could use some images.  Ask Copilot to “**_Add an image of a chef making pizza dough_**” and Copilot will find the perfect image to make your slide more appealing.
+Copilot can also step in to make what you have even better. Maybe you're teaching a cooking class and need some slides about making pizza, but it could use some images. Ask Copilot to “**_Add an image of a chef making pizza dough_**” and Copilot will find the perfect image to make your slide more appealing.
 
 Give it a try with the following prompts and see what Copilot can come up with for you.
 
@@ -33,4 +33,4 @@ With the **Goal**, **Context**, **Source**, and **Expectations** all laid out, C
 ## Explore more
 
 > [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. For more information, see [Add a slide or image to your presentation with Copilot in PowerPoint](https://support.microsoft.com/office/add-a-slide-or-image-to-your-presentation-with-copilot-in-powerpoint-ae906e57-db71-4f46-8ed5-c1e2cebe6a80).
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Add a slide or image to your presentation with Copilot in PowerPoint](https://support.microsoft.com/office/add-a-slide-or-image-to-your-presentation-with-copilot-in-powerpoint-ae906e57-db71-4f46-8ed5-c1e2cebe6a80).

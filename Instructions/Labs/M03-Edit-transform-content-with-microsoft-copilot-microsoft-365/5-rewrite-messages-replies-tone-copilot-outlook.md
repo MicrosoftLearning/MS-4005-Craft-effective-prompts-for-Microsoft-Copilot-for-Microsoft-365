@@ -1,5 +1,5 @@
 
-Have an important email to write and want to feel confident that it effectively conveys your intended message? With Microsoft 365 Copilot in Outlook, you can get helpful suggestions on how to adjust the tone, clarity, and reader sentiment before you hit send. 
+Have an important email to write and want to feel confident that it effectively conveys your intended message? With Copilot in Outlook, you can get helpful suggestions on how to adjust the tone, clarity, and reader sentiment before you hit send. 
 
 1. In Outlook, select **Home > New Mail > Mail**. Type your email message. 
 
@@ -42,4 +42,4 @@ This prompt gives Copilot everything it needs to come up with a good answer, inc
 
 > [!IMPORTANT]
 > Coaching with Copilot is currently available in new Outlook for Windows, Outlook on the web, and Outlook.com.
-> Copilot in Outlook only supports work or school accounts, and Microsoft accounts using outlook.com, hotmail.com, live.com, and msn.com email addresses at this time. Any Microsoft account using an account from a third-party email provider, such as a Gmail, Yahoo, or iCloud, can still use Outlook, but won’t have access to the Copilot features in Outlook. For more information, see [Email coaching with Copilot in Outlook](https://support.microsoft.com/office/email-coaching-with-copilot-in-outlook-91a3cd56-1586-4a31-85c7-2eb8cdb02405#OSVersion=iOS).
+> Copilot in Outlook only supports work or school accounts, and Microsoft accounts using outlook.com, hotmail.com, live.com, and msn.com email addresses at this time. Any Microsoft account using an account from a third-party email provider, such as a Gmail, Yahoo, or iCloud, can still use Outlook, but won’t have access to the Copilot features in Outlook. For more information, see **[Email coaching with Copilot in Outlook](https://support.microsoft.com/office/email-coaching-with-copilot-in-outlook-91a3cd56-1586-4a31-85c7-2eb8cdb02405#OSVersion=iOS)**.

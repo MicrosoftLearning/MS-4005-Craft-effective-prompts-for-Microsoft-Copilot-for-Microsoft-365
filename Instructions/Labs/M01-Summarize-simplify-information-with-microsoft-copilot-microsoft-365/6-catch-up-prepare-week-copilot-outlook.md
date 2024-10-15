@@ -1,5 +1,5 @@
 
-Microsoft 365 Copilot in Outlook makes inbox management easier with AI-powered assistance to help you write emails quickly and turn long email threads into short summaries. It combines the power of large language models (LLMs) with Outlook data to help you stay productive in the workplace. It can summarize email threads (also known as conversations), pulling out key points from multiple messages.
+Copilot in Outlook makes inbox management easier with AI-powered assistance to help you write emails quickly and turn long email threads into short summaries. It combines the power of large language models (LLMs) with Outlook data to help you stay productive in the workplace. It can summarize email threads (also known as conversations), pulling out key points from multiple messages.
 
 When **Summary by Copilot** is selected within the context of an email, Copilot automatically provides a summary based on the thread. Common use cases are summarizing a long email to see what decisions have been made and what actions have been suggested by others on the thread.
 

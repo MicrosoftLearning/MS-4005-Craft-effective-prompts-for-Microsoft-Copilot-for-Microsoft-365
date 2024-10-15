@@ -1,5 +1,5 @@
 
-Microsoft 365 Copilot in Microsoft Teams enhances collaboration and helps you get the most out of your Teams chats and meetings. Quickly recap, identify follow-up tasks, create agendas, and ask questions for more effective and focused meetings. Summarize key takeaways, see what was missed, and pinpoint key people of interest in chat threads you were added to. All without breaking the flow of discussion. Copilot is available in the following meetings and calls:
+Copilot in Microsoft Teams enhances collaboration and helps you get the most out of your Teams chats and meetings. Quickly recap, identify follow-up tasks, create agendas, and ask questions for more effective and focused meetings. Summarize key takeaways, see what was missed, and pinpoint key people of interest in chat threads you were added to. All without breaking the flow of discussion. Copilot is available in the following meetings and calls:
 
 - One-on-one and group calls
 
