@@ -1,6 +1,6 @@
 Microsoft 365 Copilot in PowerPoint is an AI-powered feature that can help you create, design, and format your slides.  You can type in what you intend to convey with your presentation, and Copilot helps you get it done. 
 
-Copilot can help you move past that initial blank slide and get you moving in the right direction. To start using Microsoft Copilot in PowerPoint, you can open the **Copilot** pane via the Copilot icon in the ribbon's **Home** tab.
+Copilot can help you move past that initial blank slide and get you moving in the right direction. To start using Copilot in PowerPoint, you can open the **Copilot** pane via the Copilot icon in the ribbon's **Home** tab.
 
 ![Screenshot of the Copilot icon in the PowerPoint ribbon.](../media/copilot-ribbon-powerpoint.png)
 
@@ -29,12 +29,12 @@ In this simple prompt, you start with the basic **Goal**: _to build a new PowerP
 | Basic prompt: <br>Start with a **Goal** | **_Create a new PowerPoint presentation._** |
 | Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand what kind of document you want to create and what it will be used for.<br><br>"_We need to present the product's features and benefits to potential clients._" |
 | Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot where to look for specific information.<br><br>"_...using the latest from **/Market Trend Report- Protein shake.docx**._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted.<br><br>"_Please include an overview of the product, its key features and benefits and a comparison to similar products in the market. Please keep the presentation to 10 slides and use simple language._" |
+| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted.<br><br>"_Please include an overview of the product, its key features and benefits and a comparison to similar products in the market. Please use simple language._" |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
-> _Create a new PowerPoint presentation using the latest from **/Market Trend Report- Protein shake.docx**. We need to present the product's features and benefits to potential clients. Please include an overview of the product, its key features and benefits, and a comparison to similar products in the market. Please keep the presentation to 10 slides and use simple language._
+> _Create a new PowerPoint presentation using the latest from **/Market Trend Report- Protein shake.docx**. We need to present the product's features and benefits to potential clients. Please include an overview of the product, its key features and benefits, and a comparison to similar products in the market. Please use simple language._
 
 [![Screenshot the crafted prompt results against the sample document using Copilot in PowerPoint.](../media/copilot-draft-results-powerpoint.png)](../media/copilot-draft-results-powerpoint.png#lightbox)
 

@@ -1,4 +1,4 @@
-To start chatting with Microsoft 365 Copilot in PowerPoint, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
+To start chatting with Copilot in PowerPoint, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
 
 ![Screenshot of the Copilot icon in the PowerPoint ribbon.](../media/copilot-ribbon-powerpoint.png)
 
@@ -51,4 +51,4 @@ In this prompt, the **Goal**, **Context**, **Source**, and **Expectations** are 
 Try out the final prompt we crafted, but using your own PowerPoint presentation. Customize the **Context**, **Sources**, and **Expectations** so that you get what you need from the presentation, without any extra stuff you don't.
 
 > [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. For more information, see [Organize this presentation with Copilot in PowerPoint](https://support.microsoft.com/office/organize-this-presentation-with-copilot-in-powerpoint-a207eea3-7a56-4225-88f1-54dd37cdcf6a).
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Organize this presentation with Copilot in PowerPoint](https://support.microsoft.com/office/organize-this-presentation-with-copilot-in-powerpoint-a207eea3-7a56-4225-88f1-54dd37cdcf6a).

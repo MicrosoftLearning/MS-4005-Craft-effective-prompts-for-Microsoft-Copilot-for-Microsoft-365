@@ -1,5 +1,5 @@
 
-To chat with Microsoft 365 Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. 
+To chat with Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. 
 
 ![Screenshot of the Copilot icon in the Word ribbon.](../media/copilot-ribbon-word.png)
 
@@ -53,4 +53,4 @@ In this simple prompt, you start with the basic **Goal**: _to find a meaningful 
 This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
 > [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. For more information, see [Chat with Copilot about your Word document](https://support.microsoft.com/office/chat-with-copilot-about-your-word-document-4482c688-a495-4571-bfcd-4a9fc6608090).
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Chat with Copilot about your Word document](https://support.microsoft.com/office/chat-with-copilot-about-your-word-document-4482c688-a495-4571-bfcd-4a9fc6608090).

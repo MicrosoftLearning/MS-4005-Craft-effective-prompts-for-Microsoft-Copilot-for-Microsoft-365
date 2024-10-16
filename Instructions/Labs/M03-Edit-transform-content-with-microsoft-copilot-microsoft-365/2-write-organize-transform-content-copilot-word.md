@@ -66,5 +66,5 @@ In this simple prompt, you start with the basic **Goal**: _to transform text int
 
 This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
-> [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. For more information, see [Transform your content with Copilot in Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).
+> [!Important]
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Transform your content with Copilot in Word](https://support.microsoft.com/office/transform-your-content-with-copilot-in-word-923d9763-f896-4da7-8a3f-5b12c3bfc475).

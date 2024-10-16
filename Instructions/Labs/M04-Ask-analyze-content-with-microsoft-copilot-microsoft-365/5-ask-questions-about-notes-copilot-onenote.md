@@ -1,4 +1,4 @@
-Microsoft 365 Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant. 
+Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant. 
 
 Chatting with Copilot can help you:
 
@@ -54,4 +54,4 @@ Try out these other prompts with your own notes and customize them to your parti
 - Who are my points of contact for the Contoso project?
 
 > [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. For more information, see [Chat with Copilot about your notes and research questions](https://support.microsoft.com/office/chat-with-copilot-about-your-notes-and-research-questions-8be75b91-d4d3-461e-af9a-fadfe208b589).
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Chat with Copilot about your notes and research questions](https://support.microsoft.com/office/chat-with-copilot-about-your-notes-and-research-questions-8be75b91-d4d3-461e-af9a-fadfe208b589).

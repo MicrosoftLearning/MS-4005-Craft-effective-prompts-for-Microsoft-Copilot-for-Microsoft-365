@@ -1,10 +1,18 @@
-Microsoft 365 Business Chat with Graph-grounded chat combines the power of artificial intelligence (AI) with your work data and apps to help you unleash creativity, unlock productivity, and uplevel skills. It works across multiple apps and content, giving you the power of AI together with your secure work data. Its ability to synthesize information and create things from multiple sources at once empowers you to tackle broader goals and objectives.
+Microsoft 365 Business Chat combines the power of artificial intelligence (AI) with your work data and apps to help you unleash creativity, unlock productivity, and uplevel skills. It works across multiple apps and content, giving you the power of AI together with your secure work data. Its ability to synthesize information and create things from multiple sources at once empowers you to tackle broader goals and objectives.
 
-To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Microsoft 365 Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Business Chat, we can pull that all together into a new experience.
+To compare, Copilot in the different Microsoft 365 apps (such as Word or PowerPoint) is specifically orchestrated to help you **within that one app**. For example, Copilot in Word is designed to help you better draft, edit, and consume content. In PowerPoint, it’s there to help you create better presentations. But with Business Chat, we can pull that all together into a new experience.
+
+You can access Business Chat in several ways:
+
+- Use Copilot in desktop and mobile versions of Microsoft Teams. See [Use Microsoft 365 Business Chat in Teams](https://support.microsoft.com/topic/open-microsoft-365-chat-in-teams-c6de0a62-4f9e-479d-b5f2-af036e342181)
+
+- Access Microsoft 365 Business Chat at Microsoft.com/copilot. See [Use Microsoft 365 Business Chat at Microsoft.com/Copilot](https://support.microsoft.com/topic/use-microsoft-365-chat-at-microsoft365-com-or-in-the-microsoft-365-office-app-4a2538f9-962f-4c7c-a368-f6006bc13d6f)
+
+![Screenshot of copilot chat experience in Teams](../media/copilot-chat-experience-teams.png)
 
 ## Let's get crafting
 
-Using **Contoso CipherGuard Product Specification.docx** from a previous unit, open the Business chat experience in Teams to work on the next prompt.
+Using **Contoso CipherGuard Product Specification.docx** from a previous unit, open Business chat in Teams to work on the next prompt.
 
 > [!NOTE]
 > Starting prompt:
@@ -31,7 +39,7 @@ Review the agenda and make any adjustments or refinements, then add it to your m
 
 ### Referencing sources
 
-As in the example, if you want Business Chat to base your new presentation off a file, meeting, or person (even all three), you can tell it to do that. In the prompt window, just start typing a forward slash "/" and a popout window will offer you recent meetings, files, or people to reference.
+As in the example, if you want Copilot to base your new presentation off a file, meeting, or person (even all three), you can tell it to do that. In the prompt window, just start typing a forward slash "/" and a popout window will offer you recent meetings, files, or people to reference.
 
 > [!IMPORTANT]
 > You must have permission to access the files you're referencing, whether they're located in your organization's SharePoint or OneDrive and can be either Word, Excel, or PowerPoint files.

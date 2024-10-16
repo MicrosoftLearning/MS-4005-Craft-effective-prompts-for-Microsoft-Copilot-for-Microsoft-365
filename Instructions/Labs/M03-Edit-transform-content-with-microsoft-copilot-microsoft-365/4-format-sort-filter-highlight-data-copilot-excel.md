@@ -59,4 +59,4 @@ Try out these simple prompts to highlight, sort, and filters your data and add o
 - Filter to items that are due next week.
 
 > [!IMPORTANT]
-> Copilot will only work on files that are stored on OneDrive or SharePoint. If you can’t select the Copilot button in the ribbon, try saving the file to the cloud first. For more information, see [Highlight, sort, and filter your data with Copilot in Excel](https://support.microsoft.com/office/highlight-sort-and-filter-your-data-with-copilot-in-excel-05302e3f-de42-4475-b235-be9cb3d4e936).
+> Copilot will only work on files that are stored on OneDrive or SharePoint. If you can’t select the Copilot button in the ribbon, try saving the file to the cloud first. For more information, see **[Highlight, sort, and filter your data with Copilot in Excel](https://support.microsoft.com/office/highlight-sort-and-filter-your-data-with-copilot-in-excel-05302e3f-de42-4475-b235-be9cb3d4e936)**.

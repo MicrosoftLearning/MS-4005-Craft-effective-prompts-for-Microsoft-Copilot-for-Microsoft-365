@@ -15,6 +15,6 @@ By the end of this module, you'll be able to:
 
 1. Prompt Microsoft 365 Copilot to generate new ideas, new content, and FAQs from existing files.
 
-Throughout the module, you'll see examples of **simple** prompts that are improved with different techniques to be **good** prompts, then **better** prompts, and then the **best** version of those prompts. Dissecting prompts in this way helps you learn about the capabilities of Microsoft 365 Copilotand reinforces the importance of good technique at the same time.
+Throughout the module, you'll see examples of **simple** prompts that are improved with different techniques to be **good** prompts, then **better** prompts, and then the **best** version of those prompts. Dissecting prompts in this way helps you learn about the capabilities of Copilot and reinforces the importance of good technique at the same time.
 
-Completing this module provides you with skills to **enhanced productivity** by effectively communicating expectations to Microsoft 365 Copilot, saving time and effort. You'll also develop **improved prompting skills** to craft clear and concise prompts, enhancing productivity in Microsoft 365 apps.
+Completing this module provides you with skills to **enhanced productivity** by effectively communicating expectations to Copilot, saving time and effort. You'll also develop **improved prompting skills** to craft clear and concise prompts, enhancing productivity in Microsoft 365 apps.
