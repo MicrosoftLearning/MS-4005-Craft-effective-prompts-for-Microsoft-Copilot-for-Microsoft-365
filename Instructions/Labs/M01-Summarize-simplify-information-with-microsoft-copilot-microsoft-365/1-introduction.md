@@ -1,5 +1,5 @@
 
-In this module, you learn how to craft effective, contextual prompts for Microsoft 365 Copilotto **summarize** information in Microsoft 365 apps. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft 365 Copilot.
+In this module, you learn how to craft effective, contextual prompts for Microsoft 365 Copilot to **summarize** information in Microsoft 365 apps. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft 365 Copilot.
 
 The focus of this module is **simplifying**, **summarizing**, **understanding**, and **compiling** information using Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Teams**, **Outlook**, and others. You learn how to use these basic summarization capabilities, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
 
