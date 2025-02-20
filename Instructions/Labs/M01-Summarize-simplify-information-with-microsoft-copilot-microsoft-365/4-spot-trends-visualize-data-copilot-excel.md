@@ -15,7 +15,7 @@ Quickly turn a range of cells into an Excel table by following these steps:
 
 1. Select **OK**.
 
-![Screenshot of the Copilot panel in Excel upon first opening.](../media/copilot-pane-Excel.png)
+![Screenshot of the Copilot panel in Excel upon first opening.](../media/copilot-pane-excel.png)
 
 ## Let's get crafting
 
