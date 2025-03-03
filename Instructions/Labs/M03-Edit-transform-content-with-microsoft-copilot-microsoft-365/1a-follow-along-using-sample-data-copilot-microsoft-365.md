@@ -14,6 +14,9 @@ Follow the steps below to upload all files needed to **OneDrive**:
 3. In the address bar, enter `https://www.office.com`.
 4. Under **Welcome to Microsoft 365**, select **Sign in**.
 5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
+
+    [![Screenshot resource pane in skillable](../media/lab_resources_password.png)](../media/lab_resources_password.png#lightbox)
+    
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 8. In **Microsoft 365**, select **Apps**.
