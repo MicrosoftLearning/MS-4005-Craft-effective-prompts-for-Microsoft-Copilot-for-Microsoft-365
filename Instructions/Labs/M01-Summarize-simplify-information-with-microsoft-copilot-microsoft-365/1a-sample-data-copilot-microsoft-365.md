@@ -19,6 +19,9 @@ Follow the steps below to upload all files needed to **OneDrive**:
 5. At the **Sign-in prompt**, enter `userx@yourtenant.onmicrosoft.com` (username and tenant provided by your tenant provided) and select **Next**.
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
+
+**Note:** If the web page appears blurred after logging in, refresh the page.
+
 8. In **Microsoft 365**, select **Apps**.
 9. Within **Apps**, select **OneDrive**.
 10. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
