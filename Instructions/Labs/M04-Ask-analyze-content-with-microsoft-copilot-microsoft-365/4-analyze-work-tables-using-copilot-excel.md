@@ -1,5 +1,6 @@
+# Analyze and work with tables using Microsoft 365 Copilot in Excel
 
-If you're not sure how to write a formula for a new column, Microsoft 365 Copilot can quickly add new columns with formulas based on your data. 
+If you're not sure how to write a formula for a new column, Microsoft 365 Copilot can quickly add new columns with formulas based on your data.
 
 1. With your data formatted as a table, select the **Copilot** button in the ribbon.
 
@@ -21,34 +22,34 @@ Open the spreadsheet in Excel and then open the **Copilot** pane by selecting th
 > [!NOTE]
 > Starting prompt:
 >
-> _Explain this formula._
+> _Suggest a formula column._
 
-In this simple prompt, you start with the basic **Goal**: _to explain an Excel formula._ However, Copilot doesn't know which formula or what you don't understand.
+In this simple prompt, you start with the basic **Goal**: _to create a new column with a formula_. However, there isn’t enough detail to determine what the formula should calculate.  
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **_Explain this formula._** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand what you don't understand about the formula.<br><br>"_We need to understand how it calculates user engagement._" |
-| Better prompt: <br>Specify **Source(s)** | The **Source** for this prompt is assumed to be the table we're working with in Excel, but you can get even more specific.<br><br>"_...from column J of the 'Table1' table in the Excel spreadsheet._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the formula explained and broken down.<br><br>"_Please provide a step-by-step breakdown of the formula, including its arguments and syntax. Please suggest additional formulas that would be useful to determine return on investment._" |
+| **Basic prompt:** Start with a **Goal** | **_Suggest a formula column._** |
+| **Good prompt:** Add **Context** | Adding **Context** helps Copilot understand what the formula should calculate. _"...for column J to determine the engagement ratio of each campaign."_ |
+| **Better prompt:** Specify **Source(s)** | The **Source** for this prompt is the specific columns needed for the calculation. _"...using the values from 'Engaged Users' and 'Total Users Targeted'."_ |
+| **Best prompt:** Set clear **Expectations** | Adding **Expectations** helps Copilot structure the formula correctly. _"Ensure the formula divides 'Engaged Users' by 'Total Users Targeted' and formats the result as a percentage."_ |
 
-> [!NOTE]
-> **Crafted prompt**:
+> [!NOTE]  
+> **Crafted prompt:**  
 >
-> _Explain the formula from column J of the 'Table1' table in the Excel spreadsheet. We need to understand how it calculates user engagement. Please provide a step-by-step breakdown of the formula, including its arguments and syntax. Please suggest additional formulas that would be useful to determine return on investment._
+> _Suggest a formula for column J to calculate the engagement ratio of each campaign. Use the values from 'Engaged Users' and 'Total Users Targeted'. Ensure the formula divides 'Engaged Users' by 'Total Users Targeted' and formats the result as a percentage._  
 
-[![Screenshot of the results of the crafted prompt using Copilot in Excel.](../media/copilot-explain-formula-results-excel.png)](../media/copilot-explain-formula-results-excel.png#lightbox)
+![Screenshot of the results of the crafted prompt using Copilot in Excel.](../media/ask_copilot-explain-formula-results-excel.png)
 
 Copilot has all the info it needs to give you a solid answer, thanks to the **Goal**, **Context**, **Source**, and **Expectations** in this prompt.
 
 ## Explore more
 
-Use these prompts as a starting point. Copy and modify them to suit your needs. 
+Use these prompts as a starting point. Copy and modify them to suit your needs.
 
-- Calculate total cost per product in a new column. 
+- Calculate total cost per product in a new column.
 
-- Add a column that calculates the total profit for each marketing campaign in 2022. 
+- Add a column that calculates the total profit for each marketing campaign in 2022.
 
-- Add a column that calculates the number of days after the product launch event. 
+- Add a column that calculates the number of days after the product launch event.
 
 For more information, see [Generate formula columns with Copilot in Excel](https://support.microsoft.com/office/generate-formula-columns-with-copilot-in-excel-d866d926-9791-4e5f-be2a-c6dd9e587a47).

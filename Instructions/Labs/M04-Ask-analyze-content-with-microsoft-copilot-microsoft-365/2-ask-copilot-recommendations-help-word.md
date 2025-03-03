@@ -1,11 +1,12 @@
+# Ask Microsoft 365 Copilot in Word for help and recommendations
 
-To chat with Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab. 
+To chat with Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
 
-![Screenshot of the Copilot icon in the Word ribbon.](../media/copilot-ribbon-word.png)
+![Screenshot of the Copilot icon in the Word ribbon.](../media/ask_copilot-ribbon-word.png)
 
 In addition to creating content or generating ideas, Copilot in Word has the ability to answer questions about the document you're reading. Once Copilot responds to your prompt, you can also view references with citations from where Copilot pulled information in your document.
 
-![Screenshot of the Copilot panel in Word upon first opening.](../media/copilot-pane-word.png)
+![Screenshot of the Copilot panel in Word upon first opening.](../media/ask_copilot-pane-word.png)
 
 ## Ask questions about this document
 
@@ -15,7 +16,7 @@ In addition to creating content or generating ideas, Copilot in Word has the abi
 
 ## Ask open-ended questions
 
-Want to add some content or context to your document? Ask Copilot general questions, and it will try to give you answers. For example: 
+Want to add some content or context to your document? Ask Copilot general questions, and it will try to give you answers. For example:
 
 - How can I edit this document to make it sound more academic?
 
@@ -38,17 +39,17 @@ In this simple prompt, you start with the basic **Goal**: _to find a meaningful 
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **_Is there a call to action?_** |
-| Good prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot where to look for specific information.<br><br>"_...in this market analysis report..._" |
-| Better prompt: <br>Add **Context** | Adding **Context** can help Copilot respond with context and give you a more tailored response.<br><br>"_...to address our challenges and concerns. Please check if the marketing plan includes a clear and specific plan of action, such as a promotional plan or a limited time discount._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand what exactly you need, instead of just giving you a flat _yes_ or _no_ answer.<br><br>"_Please provide suggestions for improving the call to action if necessary._" |
+| **Basic prompt:** Start with a **Goal** | **_Is there a call to action?_** |
+| **Good prompt:** Specify **Source(s)** | Adding **Sources** can help Copilot where to look for specific information. _"...in this market analysis report..."_ |
+| **Better prompt:** Add **Context** | Adding **Context** can help Copilot respond with context and give you a more tailored response. _"...to address our challenges and concerns. Please check if the marketing plan includes a clear and specific plan of action, such as a promotional plan or a limited time discount."_ |
+| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand what exactly you need, instead of just giving you a flat _yes_ or _no_ answer. _"Please provide suggestions for improving the call to action if necessary."_ |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
 > _Is there a call to action in this market analysis report to address our challenges and concerns? Please check if the marketing plan includes a clear and specific plan of action, such as a promotional plan or a limited time discount. Please provide suggestions for improving the call to action if necessary._
 
-[![Screenshot the crafted prompt results against the sample document using Copilot in Word.](../media/copilot-prompt-results-word.png)](../media/copilot-prompt-results-word.png#lightbox)
+![Screenshot the crafted prompt results against the sample document using Copilot in Word.](../media/ask_copilot-prompt-results-word.png)
 
 This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 

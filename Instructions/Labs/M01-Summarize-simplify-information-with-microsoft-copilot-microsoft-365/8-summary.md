@@ -1,10 +1,12 @@
+# Summary
+
 In this module, you learned about Microsoft 365 Copilot in various Microsoft 365 applications such as Word, PowerPoint, Excel, Teams, Outlook, and chat. Copilot is an AI-powered tool that assists with tasks like generating summaries, searching for specific information, generating ideas, tables, or lists, and data analysis. To craft an effective prompt from Copilot that yields the desired results, it's important to provide clear **Goals**, **Context**, **Sources**, and **Expectations** in your prompts.
 
 The main takeaways from this module are that Microsoft 365 Copilot is a valuable tool for improving productivity and efficiency in various Microsoft applications. When you craft efficient prompts from the start, Copilot can provide accurate and relevant responses to your queries and assist you in achieving your goals.
 
 ## Key resources
 
-- [Welcome to Copilot in Word](https://support.microsoft.com/en-us/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
+- [Welcome to Copilot in Word](https://support.microsoft.com/office/welcome-to-copilot-in-word-2135e85f-a467-463b-b2f0-c51a46d625d1)
 
 - [Welcome to Copilot in PowerPoint](https://support.microsoft.com/office/welcome-to-copilot-in-powerpoint-57133c75-24c0-4519-8096-d0dadf25fb8d)
 

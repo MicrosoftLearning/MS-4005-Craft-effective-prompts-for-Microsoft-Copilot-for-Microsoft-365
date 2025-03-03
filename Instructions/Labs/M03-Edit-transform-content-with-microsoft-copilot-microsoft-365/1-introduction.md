@@ -1,6 +1,8 @@
+# Introduction
+
 In this module, you learn how to craft effective, contextual prompts for Microsoft 365 Copilot to **transform** documents, data, and text in Microsoft 365 apps. If you're looking to enhance your prompting skills for Copilot, this module equips you with the knowledge and techniques to craft prompts that yield accurate and helpful results from Microsoft 365 Copilot.
 
-The focus of this module is **editing**, **transforming**, and **rewriting** information using Copilot in Microsoft 365 apps such as **Word**, **PowerPoint**, **Excel**, **Outlook**, and others. You learn how to use these basic transformation capabilities using AI, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
+The focus of this module is **editing**, **transforming**, and **rewriting** information using Copilot in different Microsoft 365 apps such as **Word**, **PowerPoint**, **Excel**, **Outlook**, and others. You learn how to use these basic transformation capabilities using AI, but also how to craft an efficient prompt that contains all the elements to generate the desired results.
 
 > [!IMPORTANT]
 > Many of the Copilot features covered in this module are only available to customers with a Microsoft 365 Copilot license or Copilot Pro license. However, the strategies employed to craft better prompts can be used with any chat-based large language model (LLM).

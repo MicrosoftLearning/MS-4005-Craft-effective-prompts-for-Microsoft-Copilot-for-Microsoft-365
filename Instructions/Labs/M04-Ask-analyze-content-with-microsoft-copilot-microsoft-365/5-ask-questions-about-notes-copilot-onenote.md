@@ -1,4 +1,6 @@
-Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant. 
+# Ask questions about your notes using Microsoft 365 Copilot in OneNote
+
+Copilot in OneNote supercharges your note taking and helps you understand, create, and recall information. With Copilot in OneNote, you’re never limited by a set of predetermined prompts. You can freely chat with Copilot to complete a wide variety of complex tasks to transform OneNote into an invaluable assistant.
 
 Chatting with Copilot can help you:
 
@@ -18,6 +20,41 @@ To chat with Copilot in OneNote, follow these steps:
 
 ## Let's get crafting
 
+To get started, copy and paste the following text into a new OneNote page:
+
+```text
+    Q1 Webinars
+        1. AI in Business
+    
+            Date: January 15, 2024
+            Total Attendees: 450
+            Engagement Rate: 72% (Active participation in Q&A, polls, and chat)
+            Key Takeaways:
+            - AI is reshaping customer service with automated chatbots.
+            - Predictive analytics help businesses forecast trends.
+            - Ethical AI considerations are becoming a priority.
+        
+        2. Cloud Security Best Practices
+        
+            Date: February 10, 2024
+            Total Attendees: 385
+            Engagement Rate: 65%
+            Key Takeaways:
+            - Zero Trust security models are on the rise.
+            - Multi-factor authentication reduces data breaches.
+            - Compliance requirements for cloud security continue to evolve.
+        
+        3. Future of Remote Work
+    
+            Date: March 5, 2024
+            Total Attendees: 500
+            Engagement Rate: 80%
+            Key Takeaways:
+            - Hybrid work models are now the standard for many companies.
+            - Virtual collaboration tools are improving productivity.
+            - Employees expect flexibility but still value in-person interaction.
+```
+
 > [!NOTE]
 > Starting prompt:
 >
@@ -27,10 +64,10 @@ In this simple prompt, you start with the basic **Goal**: _to find out which web
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **_Which webinar had the most attendees and participation?_** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand what you need the information for.<br><br>"_...for our quarterly business review._" |
-| Better prompt: <br>Specify **Source(s)** | The **Source** for this prompt is assumed to be the notebook in OneNote, but you can get even more specific by referencing specific pages or topics.<br><br>"_Please refer to the attendance data from the notes for the last quarter._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you fine tune your results.<br><br>"_Please calculate the total number of attendees and average participation rate for each webinar. Please identify the webinar with the highest attendance and participation rate and provide a brief summary of its topic and key takeaways._" |
+| **Basic prompt:** Start with a **Goal** | **_Which webinar had the most attendees and participation?_** |
+| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand what you need the information for. _"...for our quarterly business review."_ |
+| **Better prompt:** Specify **Source(s)** | The **Source** for this prompt is assumed to be the notebook in OneNote, but you can get even more specific by referencing specific pages or topics. _"Please refer to the attendance data from the notes for the last quarter."_ |
+| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you fine-tune your results. _"Please calculate the total number of attendees and average participation rate for each webinar. Please identify the webinar with the highest attendance and participation rate and provide a brief summary of its topic and key takeaways."_ |
 
 > [!NOTE]
 > **Crafted prompt**:
@@ -38,20 +75,6 @@ In this simple prompt, you start with the basic **Goal**: _to find out which web
 > _Which webinar had the most attendees and participation for our quarterly business review? Please refer to the attendance data from the notes for the last quarter. Please calculate the total number of attendees and average participation rate for each webinar. Please identify the webinar with the highest attendance and participation rate and provide a brief summary of its topic and key takeaways._
 
 Copilot has all the info it needs to give you a solid answer, thanks to the **Goal**, **Context**, **Source**, and **Expectations** in this prompt.
-
-## Explore more
-
-Try out these other prompts with your own notes and customize them to your particular needs: 
-
-- How many active projects does the East coast team have?
-
-- How should a new employee be onboarded?
-
-- Which tasks from the previous sprint are incomplete?
-
-- List things I've accomplished in this job to add to my resume.
-
-- Who are my points of contact for the Contoso project?
 
 > [!IMPORTANT]
 > This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. For more information, see [Chat with Copilot about your notes and research questions](https://support.microsoft.com/office/chat-with-copilot-about-your-notes-and-research-questions-8be75b91-d4d3-461e-af9a-fadfe208b589).
