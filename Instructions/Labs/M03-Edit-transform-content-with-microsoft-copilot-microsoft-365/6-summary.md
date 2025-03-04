@@ -1,11 +1,12 @@
+# Summary
 
 In this module, you have learned about Microsoft 365 Copilot and its transformative features across Microsoft 365 apps, such as:
 
-- Copilot in Word can rewrite your text and transform it into an editable table. 
+- Copilot in Word can rewrite your text and transform it into an editable table.
 
-- Copilot in PowerPoint can assist in adding slides to your presentation and enhancing them with images. 
+- Copilot in PowerPoint can assist in adding slides to your presentation and enhancing them with images.
 
-- Copilot in Excel allows users to highlight, sort, and filter tables to focus on important information. 
+- Copilot in Excel allows users to highlight, sort, and filter tables to focus on important information.
 
 - Copilot in Outlook provides suggestions to improve the tone, clarity, and reader sentiment of your emails with Coaching by Copilot.
 

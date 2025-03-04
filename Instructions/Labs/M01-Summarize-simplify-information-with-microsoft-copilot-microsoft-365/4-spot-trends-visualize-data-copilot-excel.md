@@ -1,11 +1,17 @@
+# Spot trends and visualize data with Copilot in Excel
 
-Microsoft 365 Copilot in Excel helps you do more with your data in Excel tables by generating formula column suggestions, showing insights in charts and PivotTables, and highlighting interesting portions of data. 
+Microsoft 365 Copilot in Excel helps you do more with your data in Excel tables by generating formula column suggestions, showing insights in charts and PivotTables, and highlighting interesting portions of data.
 
-In Excel, select **Copilot** on the ribbon to open the chat pane. You need to have an **Excel table** that includes data in a worksheet before using Copilot. 
+In Excel, select **Copilot** on the ribbon to open the chat pane.
 
-![Screenshot of the Copilot icon in the Excel ribbon.](../media/copilot-ribbon-excel.png)
+![Screenshot of the Copilot icon in the Excel ribbon.](../media/summarize_copilot-ribbon-excel.png)
 
-Quickly turn a range of cells into an Excel table by following these steps: 
+To use Copilot in Excel, your data will need to be formatted in one of the following ways:
+
+- As an Excel Table
+- As a support Range
+
+You can create a table, or you can convert a range of cells into a table if you have a data range by following these steps:
 
 1. Select the cell or the range in the data.
 
@@ -15,7 +21,20 @@ Quickly turn a range of cells into an Excel table by following these steps:
 
 1. Select **OK**.
 
-![Screenshot of the Copilot panel in Excel upon first opening.](../media/copilot-pane-excel.png)
+If you prefer to keep your data in a range and not convert it to a table, it will need to meet all of the following requirements:
+
+- Only one header row
+- Headers are only on columns, not on rows
+- Headers are unique; no duplicate headers
+- No blank headers
+- Data is formatted in a consistent way
+- No subtotals
+- No empty rows or columns
+- No merged cells
+
+In the following example, we begin with a basic request to analyze a table and progressively add elements to make the prompt more robust.
+
+![Screenshot of the Copilot panel in Excel upon first opening.](../media/summarize_copilot-pane-excel.png)
 
 ## Let's get crafting
 
@@ -32,17 +51,15 @@ In this simple prompt, you start with the basic **Goal**: _to analyze an Excel t
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **Analyze this table in Excel.** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand the purpose of the analysis and adjust the response accordingly.<br><br>"_We're looking for the top selling products from May through August to inform our marketing strategy for next year._" |
-| Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot narrow down the scope by telling it to use specific information or ranges.<br><br>"_...from May through August..._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required.<br><br>"_Please highlight the top selling product month over month._" |
+| **Basic prompt:** Start with a **Goal** | **Analyze this table in Excel.** |
+| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand the purpose of the analysis and adjust the response accordingly. _"We're looking for the top-selling products from May through August for artisanal chai sales or premade chai sales."_ |
+| **Better prompt:** Specify **Source(s)** | Adding **Sources** can help Copilot narrow down the scope by telling it to use specific information or ranges. _"...from May through August for artisanal chai sales or premade chai sales...."_ |
+| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to format the summary and what level of detail is required. _"Please summarize the top-selling product for each month."_ |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
-> _Analyze this Excel table. We're looking for the top selling products from May through August to inform our marketing strategy for next year. Please highlight the top selling product month over month._
-
-[![Screenshot of the results of the crafted prompt using Copilot in Excel.](../media/copilot-results-excel.png)](../media/copilot-results-excel.png#lightbox)
+> _Analyze this table in Excel. We're looking for the top selling products from May through August for artisanal chai sales or premade chai sales. Please summarize the top selling product for each month._
 
 This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
@@ -57,4 +74,4 @@ Try out the final crafted prompt and others with your own Excel table. Here are 
 - Show the total of advertising sales for each region last year.
 
 > [!IMPORTANT]
-> This feature is available to customers with a Copilot for Microsoft 365 license or Copilot Pro license. To learn more about Excel tables and how to create them, see [Create a table in Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f). 
+> This feature is available to customers with a Microsoft 365 Copilot license or Copilot Pro license. To learn more about Excel tables and how to create them, see [Create a table in Excel](https://support.microsoft.com/office/bf0ce08b-d012-42ec-8ecf-a2259c9faf3f).

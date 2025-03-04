@@ -1,7 +1,8 @@
+# Draft cover letters, marketing plans, and outlines with Microsoft 365 Copilot in Word
 
-To start using Microsoft 365 Copilot in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab or start writing right within the document.
+To start using Microsoft 365 Copilot  in Word, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab or start writing right within the document.
 
-![Screenshot of the Copilot icon in the Word ribbon.](../media/copilot-ribbon-word.png)
+![Screenshot of the Copilot icon in the Word ribbon.](../media/create_copilot-ribbon-word.png)
 
 To begin drafting right in the body of the document:
 
@@ -13,7 +14,7 @@ To begin drafting right in the body of the document:
 
 Once Copilot generates content, select **Keep it** to keep the content, **Regenerate** to regenerate a response, **Discard** to discard the content, or fine tune the draft by entering details into the compose box, like "_Make it more concise_."
 
-![Screenshot of the options bar after using Draft with Copilot in Word.](../media/copilot-prompt-box-word.png)
+![Screenshot of the options bar after using Draft with Copilot in Word.](../media/create_copilot-prompt-box-word.png)
 
 In the following example, we turn a basic prompt for Copilot in Word into a well-constructed, contextual prompt that gives you just what you need, in just the way you need it.
 
@@ -32,21 +33,19 @@ In this simple prompt, you start with the basic **Goal**: _to create a new marke
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **_Draft a marketing proposal._** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand what kind of document you want to create and what it will be used for.<br><br>"_...for Contoso's latest product: CipherGuard. We need to generate three ideas for a marketing campaign..._" |
-| Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot where to look for specific information.<br><br>"_...using the product specifications and requirements._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted.<br><br>"_Please include a brief overview of the product, pros and cons for each idea, and ROI projection. Please keep the document to two pages and use optimistic and convincing language._" |
+| **Basic prompt:** Start with a **Goal** | **_Draft a marketing proposal._** |
+| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand what kind of document you want to create and what it will be used for. _"...for Contoso's latest product: CipherGuard. We need to generate three ideas for a marketing campaign..."_ |
+| **Better prompt:** Specify **Source(s)** | Adding **Sources** can help Copilot know where to look for specific information. _"...using the product specifications and requirements."_ |
+| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how you want the document to be written and formatted. _"Please include a brief overview of the product, pros and cons for each idea, and ROI projection. Please keep the document to two pages and use optimistic and convincing language."_ |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
 > _Draft a marketing proposal for Contoso's latest product: CipherGuard. We need to generate three ideas for a marketing campaign using the product specifications and requirements. Please include a brief overview of the product, pros and cons for each idea, and ROI projection. Please keep the document to two pages and use optimistic and convincing language._
 
-[![Screenshot the crafted prompt results against the sample document using Copilot in Word.](../media/copilot-draft-results-word.png)](../media/copilot-draft-results-word.png#lightbox)
-
 Review the results of your prompt and follow up with any questions or refinements, then add it to the end of the document in a new section. **Save** the file so it can be used later.
 
-This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**. 
+This prompt gives Copilot everything it needs to come up with a good answer, including the **Goal**, **Context**, **Source**, and **Expectations**.
 
 ### Referencing sources
 

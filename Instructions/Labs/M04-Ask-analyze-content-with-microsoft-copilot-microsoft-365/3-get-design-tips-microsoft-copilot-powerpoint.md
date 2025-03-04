@@ -1,10 +1,12 @@
+# Get design and organization tips with Microsoft 365 Copilot in PowerPoint
+
 To start chatting with Copilot in PowerPoint, you can open the **Copilot** pane by selecting the Copilot icon in the ribbon's **Home** tab.
 
-![Screenshot of the Copilot icon in the PowerPoint ribbon.](../media/copilot-ribbon-powerpoint.png)
+![Screenshot of the Copilot icon in the PowerPoint ribbon.](../media/ask_copilot-ribbon-powerpoint.png)
 
-As you're creating a presentation, you may be unsure of how to organize your slides into sections. Copilot in PowerPoint can help. You can ask Copilot to organize your presentation. It organizes them into sections, and then adds section heading slides. 
+As you're creating a presentation, you may be unsure of how to organize your slides into sections. Copilot in PowerPoint can help. You can ask Copilot to organize your presentation. It organizes them into sections, and then adds section heading slides.
 
-![Screenshot of the Copilot panel in PowerPoint upon first opening.](../media/copilot-pane-powerpoint.png)
+![Screenshot of the Copilot panel in PowerPoint upon first opening.](../media/ask_copilot-pane-powerpoint.png)
 
 1. In the ribbon, select the Copilot button.
 
@@ -14,7 +16,7 @@ As you're creating a presentation, you may be unsure of how to organize your sli
 
 1. Select **Send**.
 
-If you don't like what Copilot does, you can simply select the **Undo button** on the ribbon to restore your deck to its previous state. 
+If you don't like what Copilot does, you can simply select the **Undo button** on the ribbon to restore your deck to its previous state.
 
 ## Let's get crafting
 
@@ -32,17 +34,15 @@ In this simple prompt, you start with the basic **Goal**: _to organize a PowerPo
 
 | Element | Example |
 | :------ | :------- |
-| Basic prompt: <br>Start with a **Goal** | **Organize this PowerPoint presentation.** |
-| Good prompt: <br>Add **Context** | Adding **Context** can help Copilot understand the way in which you want to organize the deck and the reason for doing so.<br><br>"_for an executive product review next week_" |
-| Better prompt: <br>Specify **Source(s)** | Adding **Sources** can help Copilot look in a specific location, such as product specifications or a catalog.<br><br>"_Refer to the **/Mystic Spice Premium Chai Tea product description.docx** for product information._" |
-| Best prompt: <br>Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to structure the presentation and what level of detail to include.<br><br>"_Arrange the slides by product and include an overview, a list of key features and benefits, customer feedback, and a comparison to similar products in the market._" |
+| **Basic prompt:** Start with a **Goal** | **Organize this PowerPoint presentation.** |
+| **Good prompt:** Add **Context** | Adding **Context** can help Copilot understand the way in which you want to organize the deck and the reason for doing so. _"for an executive product review next week"_ |
+| **Better prompt:** Specify **Source(s)** | Adding **Sources** can help Copilot look in a specific location, such as product specifications or a catalog. _"Refer to the **/Mystic Spice Premium Chai Tea product description.docx** for product information."_ |
+| **Best prompt:** Set clear **Expectations** | Lastly, adding **Expectations** can help Copilot understand how to structure the presentation and what level of detail to include. _"Arrange the slides by product and include an overview, a list of key features and benefits, customer feedback, and a comparison to similar products in the market."_ |
 
 > [!NOTE]
 > **Crafted prompt**:
 >
 > _Organize this presentation for an executive product review next week. Refer to the **/Mystic Spice Premium Chai Tea product description.docx** for product information. Arrange the slides by product and include an overview, a list of key features and benefits, customer feedback, and a comparison to similar products in the market._
-
-[![Screenshot the crafted prompt results against the sample presentation using Copilot in PowerPoint.](../media/copilot-organize-results-powerpoint.png)](../media/copilot-organize-results-powerpoint.png#lightbox)
 
 In this prompt, the **Goal**, **Context**, **Source**, and **Expectations** are all provided, giving Copilot enough direction to generate a response that meets your needs.
 
