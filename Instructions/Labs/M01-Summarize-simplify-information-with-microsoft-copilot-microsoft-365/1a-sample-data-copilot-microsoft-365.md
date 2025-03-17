@@ -25,6 +25,9 @@ Follow the steps below to upload all files needed to **OneDrive**:
 6. At the **Enter password** screen, enter the password (provided by tenant provider) for the User account, then select **Sign in**.
 7. If prompted to **Stay signed in**, select **Don't show this again** and then **Yes**.
 8. In **OneDrive**, in the top-left corner, select **+** (add new) > **File upload**.
+
+    [![Screenshot of add new file](../media/add_new.png)](../media/add_new.png#lightbox)
+
 9. In **File Explorer**, select **This PC** > **Local Disk (C:)** and open the **ResourceFiles** folder.
 10. Select all files within the **ResourceFiles** folder, then select **Open** to upload them to **OneDrive**.
 11. When the upload is complete, you should see **Uploaded 29 items to My files** in the bottom center of the screen.
